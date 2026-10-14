@@ -4,7 +4,7 @@ We make **Munder Difflin**, a multi-agent harness that turns the coding agents y
 
 <img src="https://munderdiffl.in/media/floor.png" alt="The Munder Difflin office floor: agents at their desks working in parallel, with a live agent terminal on the right" width="900">
 
-- Works with Claude Code, Codex, Gemini CLI and nine more terminal agents, on the subscriptions you already pay for.
+- Works with Claude Code, Codex, Antigravity, Opencode and almost every terminal agent provider out there on the subscriptions you already pay for.
 - You talk to one orchestrator. The agents message each other, remember, and work in parallel.
 - Runs on Mac, Windows and Linux.
 
