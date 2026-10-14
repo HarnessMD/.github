@@ -1,6 +1,6 @@
 # HarnessMD
 
-We make **Munder Difflin**, an agent harness that turns the coding agents you already use into an office of agents on your own machine.
+We make **Munder Difflin**, a multi-agent harness that turns the coding agents you already use into an office of agents on your own machine(or a sandbox)
 
 <img src="https://munderdiffl.in/media/floor.png" alt="The Munder Difflin office floor: agents at their desks working in parallel, with a live agent terminal on the right" width="900">
 
